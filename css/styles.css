@@ -11496,6 +11496,35 @@ html {
   background-color: #1a252f;
 }
 
+.social-icons-footer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 2rem;
+  margin-right: 1.5rem;
+}
+
+.linkedin-color-static{
+  background-color: #0a66c2;
+}
+
+.github-color-static{
+  background-color: #010409;
+}
+
+.twitter-color-static{
+  background-color: #1da1f2;
+}
+
+.facebook-color-static{
+  background-color: #4064ac;
+}
+
 .social-icons .social-icon {
 
     display: inline-flex;
@@ -11571,4 +11600,8 @@ html {
 
 .white-period{
   color: #fff !important;
+}
+
+.title-font{
+  font-family: "Lucida Console", monospace !important;
 }
