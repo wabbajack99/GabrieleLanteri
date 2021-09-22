@@ -11496,19 +11496,58 @@ html {
   background-color: #1a252f;
 }
 
-
 .social-icons .social-icon {
 
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 5rem;
+    width: 5rem;
     background-color: #495057;
     color: #fff;
     border-radius: 100%;
-    font-size: 1.5rem;
+    font-size: 2.8rem;
     margin-right: 1.5rem;
+}
+
+.linkedin-color{
+    background-color: #495057;
+    color: #fff;
+}
+
+.linkedin-color:hover{
+    transition: all .4s ease;
+    background-color: #0a66c2;
+}
+
+.github-color{
+    background-color: #495057;
+    color: #fff;
+}
+
+.github-color:hover{
+  transition: all .4s ease;
+    background-color: #010409;
+}
+
+.twitter-color{
+    background-color: #495057;
+    color: #fff;
+}
+
+.twitter-color:hover{
+  transition: all .4s ease;
+  background-color: #1da1f2;
+}
+
+.facebook-color{
+  background-color: #495057;
+  color: #fff;
+}
+
+.facebook-color:hover{
+  transition: all .4s ease;
+  background-color: #4064ac;
 }
 
 .subheading {
@@ -11520,4 +11559,16 @@ html {
 
 .mb-3 {
   margin-bottom: 1rem !important;
+}
+
+.skill-size {
+  font-size: 80px !important;
+}
+
+.social-size{
+  font-size: 80px !important;
+}
+
+.white-period{
+  color: #fff !important;
 }
