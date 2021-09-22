@@ -11539,6 +11539,16 @@ html {
     margin-right: 1.5rem;
 }
 
+.email-color{
+  background-color: #495057;
+  color: #fff;
+}
+
+.email-color:hover{
+  transition: all .4s ease;
+  background-color: #d54b3e;
+}
+
 .linkedin-color{
     background-color: #495057;
     color: #fff;
